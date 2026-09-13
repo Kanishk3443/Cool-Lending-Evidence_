@@ -1,0 +1,7 @@
+{
+  "name": "Evidence-Backed Lending",
+  "description": "Tamper-evident compliance evidence for AI credit decisions built on the CooL SDK (cool-nwc), with officer override chaining and offline verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
